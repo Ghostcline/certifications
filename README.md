@@ -32,18 +32,19 @@ Skills:
 - Intermediate Python Logic
 
 ---
-🐍 Become a Python Master – Professional Certificate
-Issued by Programiz
-Date: February 2026
-Credential ID: BDB211248404
+🐍 Become a Python Master – Professional Certificate  
 
-🔗 Credential URL: https://programiz.pro/certificates/detail/BDB211248404
+Issued by Programiz  
+Date: February 2026  
+Credential ID: BDB211248404  
+
+🔗 Credential URL: https://programiz.pro/certificates/detail/BDB211248404  
 
 Skills:
 
-• Advanced Python Concepts
-• Object-Oriented Programming (OOP)
-• Functions & Modules
-• Error Handling & Debugging
-• Python Problem Solving
-• Interview-Level Python Questions
+- Advanced Python Concepts  
+- Object-Oriented Programming (OOP)  
+- Functions & Modules  
+- Error Handling & Debugging  
+- Python Problem Solving  
+- Interview-Level Python Questions  
