@@ -41,9 +41,9 @@ Credential ID: BDB211248404
 
 Skills:
 
-Advanced Python Concepts
-Object-Oriented Programming (OOP)
-Functions & Modules
-Error Handling & Debugging
-Python Problem Solving
-Interview-Level Python Questions
+• Advanced Python Concepts
+• Object-Oriented Programming (OOP)
+• Functions & Modules
+• Error Handling & Debugging
+• Python Problem Solving
+• Interview-Level Python Questions
